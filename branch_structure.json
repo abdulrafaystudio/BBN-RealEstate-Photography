@@ -1,0 +1,15 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "App-Icon-Update",
+    "main"
+  ],
+  "parent": {
+    "App-Icon-Update": "main",
+    "main": null
+  },
+  "order": [
+    "main",
+    "App-Icon-Update"
+  ]
+}
